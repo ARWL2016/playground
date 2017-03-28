@@ -23,3 +23,7 @@ app.get('/send', function(request, response) {
 app.listen(port, function() {
     console.log("Listening on port " + port); 
 }); 
+
+app.post('/', function(req, res) {
+    console.log(req); 
+});
