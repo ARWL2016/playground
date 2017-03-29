@@ -4,8 +4,7 @@
   "description": "A practice stack so I can get to grips with express and node",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "live-server dom-manipulation"
+    "start": "live-server dom"
   },
   "author": "",
   "license": "ISC",
