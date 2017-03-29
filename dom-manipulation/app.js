@@ -1,0 +1,1 @@
+console.log("%cScript started now", "color:purple");
